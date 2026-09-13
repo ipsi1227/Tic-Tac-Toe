@@ -6,8 +6,8 @@ A beginner-friendly Tic-Tac-Toe game built using Python with Computer and Friend
 
 - Play against the computer
 -  Play with a friend
--  Player 1 / You uses X
-- Player 2 / Computer uses O
+-  Player 1 / You:X
+- Player 2 / Computer:O
 - Available positions are numbered from 1–9
 -  Computer automatically chooses a random move
 -  Detects winners
