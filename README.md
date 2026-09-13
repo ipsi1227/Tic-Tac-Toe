@@ -1,6 +1,7 @@
 A simple Tic-Tac-Toe game built using Python.
 
 ✨ Features
+
 Player vs Computer
 Player uses X
 Computer uses O
