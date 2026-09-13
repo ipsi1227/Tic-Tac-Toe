@@ -25,4 +25,4 @@ Make sure Python is installed.
 Run:
 
 ```bash
-python game.py
+python tictactoe.py
