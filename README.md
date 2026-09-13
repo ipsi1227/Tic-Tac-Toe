@@ -1,27 +1,28 @@
-Tic-Tac-Toe Python
+# Tic-Tac-Toe 
 
-A simple Tic-Tac-Toe game built using Python.
+A beginner-friendly Tic-Tac-Toe game built using Python with Computer and Friend modes.
 
-Features
+## Features
 
--  Player vs Computer
--  Player uses X
--  Computer uses O
--  Positions are numbered 1–9
--  Computer chooses moves automatically
--  Detects wins
--  Detects draws
+- Play against the computer
+-  Play with a friend
+-  Player 1 / You uses X
+- Player 2 / Computer uses O
+- Available positions are numbered from 1–9
+-  Computer automatically chooses a random move
+-  Detects winners
+- Detects draws
 -  Handles invalid inputs
 
-Built With
+## Built with
 -  Python
 -  Random module
 
-## How to Run
+##  How to Run
 
 Make sure Python is installed.
 
 Run:
 
 ```bash
-python tictactoe.py
+python game.py
